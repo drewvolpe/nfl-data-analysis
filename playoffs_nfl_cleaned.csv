@@ -1,0 +1,122 @@
+Total Line,Visitor,Winner,Line Winner,Home Score,Home Team,Diff,Date,Visitor Score,Line,Round
+42,Indianapolis Colts,Home,Home,41.0,New York Jets,41.0,2003-01-04 00:00:00,0.0,6.0,WC
+40.5,Atlanta Falcons,Visitor,Visitor,7.0,Green Bay Packers,-20.0,2003-01-04 00:00:00,27.0,6.5,WC
+43,Cleveland Browns,Home,Visitor,36.0,Pittsburgh Steelers,3.0,2003-01-05 00:00:00,33.0,8.0,WC
+41,New York Giants,Home,Visitor,39.0,San Francisco 49ers,1.0,2003-01-05 00:00:00,38.0,3.0,WC
+44,Pittsburgh Steelers,Home,Visitor,34.0,Tennessee Titans,3.0,2003-01-11 00:00:00,31.0,4.5,DP
+38.5,Atlanta Falcons,Home,Home,20.0,Philadelphia Eagles,14.0,2003-01-11 00:00:00,6.0,7.5,DP
+39.5,San Francisco 49ers,Home,Home,31.0,Tampa Bay Buccaneers,25.0,2003-01-12 00:00:00,6.0,6.0,DP
+47,New York Jets,Home,Home,30.0,Oakland Raiders,20.0,2003-01-12 00:00:00,10.0,5.5,DP
+33.5,Tampa Bay Buccaneers,Visitor,Visitor,10.0,Philadelphia Eagles,-17.0,2003-01-19 00:00:00,27.0,4.0,CC
+46,Tennessee Titans,Home,Home,41.0,Oakland Raiders,17.0,2003-01-19 00:00:00,24.0,9.0,CC
+44,Tampa Bay Buccaneers,Visitor,Visitor,21.0,Oakland Raiders,-27.0,2003-01-26 00:00:00,48.0,3.5,SB
+38,Tennessee Titans,Visitor,Visitor,17.0,Baltimore Ravens,-3.0,2004-01-03 00:00:00,20.0,-1.0,WC
+34,Dallas Cowboys,Home,Home,29.0,Carolina Panthers,19.0,2004-01-03 00:00:00,10.0,3.0,WC
+43.5,Seattle Seahawks,Home,Visitor,33.0,Green Bay Packers,6.0,2004-01-04 00:00:00,27.0,7.5,WC
+49,Denver Broncos,Home,Home,41.0,Indianapolis Colts,31.0,2004-01-04 00:00:00,10.0,3.0,WC
+46,Carolina Panthers,Visitor,Visitor,23.0,St Louis Rams,-6.0,2004-01-10 00:00:00,29.0,7.0,DP
+34,Tennessee Titans,Home,Visitor,17.0,New England Patriots,3.0,2004-01-10 00:00:00,14.0,6.0,DP
+53,Indianapolis Colts,Visitor,Visitor,31.0,Kansas City Chiefs,-7.0,2004-01-11 00:00:00,38.0,3.0,DP
+43,Green Bay Packers,Home,Visitor,20.0,Philadelphia Eagles,3.0,2004-01-11 00:00:00,17.0,4.0,DP
+42,Indianapolis Colts,Home,Home,24.0,New England Patriots,10.0,2004-01-18 00:00:00,14.0,3.5,CC
+36.5,Carolina Panthers,Visitor,Visitor,3.0,Philadelphia Eagles,-11.0,2004-01-18 00:00:00,14.0,4.0,CC
+38,Carolina Panthers,Home,Visitor,32.0,New England Patriots,3.0,2004-02-01 00:00:00,29.0,7.0,SB
+51,St Louis Rams,Visitor,Visitor,20.0,Seattle Seahawks,-7.0,2005-01-08 00:00:00,27.0,4.0,WC
+42.5,New York Jets,Visitor,Visitor,17.0,San Diego Chargers,-3.0,2005-01-08 00:00:00,20.0,6.5,WC
+56,Denver Broncos,Home,Home,49.0,Indianapolis Colts,25.0,2005-01-09 00:00:00,24.0,10.0,WC
+52.5,Minnesota Vikings,Visitor,Visitor,17.0,Green Bay Packers,-14.0,2005-01-09 00:00:00,31.0,6.0,WC
+35.5,New York Jets,Home,Visitor,20.0,Pittsburgh Steelers,3.0,2005-01-15 00:00:00,17.0,9.0,DP
+49,St Louis Rams,Home,Home,47.0,Atlanta Falcons,30.0,2005-01-15 00:00:00,17.0,6.5,DP
+47,Minnesota Vikings,Home,Home,27.0,Philadelphia Eagles,13.0,2005-01-16 00:00:00,14.0,8.0,DP
+51,Indianapolis Colts,Home,Home,20.0,New England Patriots,17.0,2005-01-16 00:00:00,3.0,1.0,DP
+37,Atlanta Falcons,Home,Home,27.0,Philadelphia Eagles,17.0,2005-01-23 00:00:00,10.0,6.0,CC
+36.5,New England Patriots,Visitor,Visitor,27.0,Pittsburgh Steelers,-14.0,2005-01-23 00:00:00,41.0,-3.0,CC
+47,New England Patriots,Visitor,Home,21.0,Philadelphia Eagles,-3.0,2005-02-06 00:00:00,24.0,-7.0,SB
+37.5,Washington Redskins,Visitor,Visitor,10.0,Tampa Bay Buccaneers,-7.0,2006-01-07 00:00:00,17.0,2.5,WC
+37.5,Jacksonville Jaguars,Home,Home,28.0,New England Patriots,25.0,2006-01-07 00:00:00,3.0,8.0,WC
+43.5,Carolina Panthers,Visitor,Visitor,0.0,New York Giants,-23.0,2006-01-08 00:00:00,23.0,3.0,WC
+44,Pittsburgh Steelers,Visitor,Visitor,17.0,Cincinnati Bengals,-14.0,2006-01-08 00:00:00,31.0,-3.0,WC
+41,Washington Redskins,Home,Home,20.0,Seattle Seahawks,10.0,2006-01-14 00:00:00,10.0,8.5,DP
+44,New England Patriots,Home,Home,27.0,Denver Broncos,14.0,2006-01-14 00:00:00,13.0,3.0,DP
+46.5,Pittsburgh Steelers,Visitor,Visitor,18.0,Indianapolis Colts,-3.0,2006-01-15 00:00:00,21.0,8.5,DP
+31,Carolina Panthers,Visitor,Visitor,21.0,Chicago Bears,-8.0,2006-01-15 00:00:00,29.0,3.0,DP
+41,Pittsburgh Steelers,Visitor,Visitor,17.0,Denver Broncos,-17.0,2006-01-22 00:00:00,34.0,3.5,CC
+43,Carolina Panthers,Home,Home,34.0,Seattle Seahawks,20.0,2006-01-22 00:00:00,14.0,5.5,CC
+47,Seattle Seahawks,Home,Home,21.0,Pittsburgh Steelers,11.0,2006-02-05 00:00:00,10.0,4.0,SB
+51,Kansas City Chiefs,Home,Home,23.0,Indianapolis Colts,15.0,2007-01-06 00:00:00,8.0,6.5,WC
+48.5,Dallas Cowboys,Home,Visitor,21.0,Seattle Seahawks,1.0,2007-01-06 00:00:00,20.0,2.0,WC
+38.5,New York Jets,Home,Home,37.0,New England Patriots,21.0,2007-01-07 00:00:00,16.0,9.0,WC
+46.5,New York Giants,Home,Visitor,23.0,Philadelphia Eagles,3.0,2007-01-07 00:00:00,20.0,6.0,WC
+41,Indianapolis Colts,Visitor,Visitor,6.0,Baltimore Ravens,-9.0,2007-01-13 00:00:00,15.0,4.0,DP
+48.5,Philadelphia Eagles,Home,Visitor,27.0,New Orleans Saints,3.0,2007-01-13 00:00:00,24.0,4.5,DP
+37.5,Seattle Seahawks,Home,Visitor,27.0,Chicago Bears,3.0,2007-01-14 00:00:00,24.0,8.5,DP
+46.5,New England Patriots,Visitor,Visitor,21.0,San Diego Chargers,-3.0,2007-01-14 00:00:00,24.0,5.0,DP
+43,New Orleans Saints,Home,Home,39.0,Chicago Bears,25.0,2007-01-21 00:00:00,14.0,3.0,CC
+47,New England Patriots,Home,Home,38.0,Indianapolis Colts,4.0,2007-01-21 00:00:00,34.0,3.0,CC
+47,Chicago Bears,Home,Home,29.0,Indianapolis Colts,12.0,2007-02-04 00:00:00,17.0,6.5,SB
+38.5,Washington Redskins,Home,Home,35.0,Seattle Seahawks,21.0,2008-01-05 00:00:00,14.0,3.5,WC
+40,Jacksonville Jaguars,Visitor,Home,29.0,Pittsburgh Steelers,-2.0,2008-01-05 00:00:00,31.0,-2.5,WC
+39.5,New York Giants,Visitor,Visitor,14.0,Tampa Bay Buccaneers,-10.0,2008-01-06 00:00:00,24.0,3.0,WC
+39,Tennessee Titans,Home,Home,17.0,San Diego Chargers,11.0,2008-01-06 00:00:00,6.0,10.0,WC
+44,Seattle Seahawks,Home,Home,42.0,Green Bay Packers,22.0,2008-01-12 00:00:00,20.0,7.5,DP
+51.5,Jacksonville Jaguars,Home,Visitor,31.0,New England Patriots,11.0,2008-01-12 00:00:00,20.0,13.5,DP
+47,San Diego Chargers,Visitor,Visitor,24.0,Indianapolis Colts,-4.0,2008-01-13 00:00:00,28.0,11.0,DP
+47.5,New York Giants,Visitor,Visitor,17.0,Dallas Cowboys,-4.0,2008-01-13 00:00:00,21.0,7.0,DP
+48,San Diego Chargers,Home,Visitor,21.0,New England Patriots,9.0,2008-01-20 00:00:00,12.0,14.0,CC
+41.5,New York Giants,Visitor,Visitor,20.0,Green Bay Packers,-3.0,2008-01-20 00:00:00,23.0,7.5,CC
+54.5,New York Giants,Visitor,Visitor,14.0,New England Patriots,-3.0,2008-02-03 00:00:00,17.0,12.5,SB
+52,Atlanta Falcons,Home,Home,30.0,Arizona Cardinals,6.0,2009-01-03 00:00:00,24.0,2.0,WC
+50,Indianapolis Colts,Home,Home,23.0,San Diego Chargers,6.0,2009-01-03 00:00:00,17.0,-2.5,WC
+38,Baltimore Ravens,Visitor,Visitor,9.0,Miami Dolphins,-18.0,2009-01-04 00:00:00,27.0,-3.5,WC
+41,Philadelphia Eagles,Visitor,Visitor,14.0,Minnesota Vikings,-12.0,2009-01-04 00:00:00,26.0,-3.5,WC
+33.5,Baltimore Ravens,Visitor,Visitor,10.0,Tennessee Titans,-3.0,2009-01-10 00:00:00,13.0,3.0,DP
+49.5,Arizona Cardinals,Visitor,Visitor,13.0,Carolina Panthers,-20.0,2009-01-10 00:00:00,33.0,10.0,DP
+39,Philadelphia Eagles,Visitor,Visitor,11.0,New York Giants,-12.0,2009-01-11 00:00:00,23.0,4.0,DP
+38.5,San Diego Chargers,Home,Home,35.0,Pittsburgh Steelers,11.0,2009-01-11 00:00:00,24.0,6.5,DP
+47,Philadelphia Eagles,Home,Home,32.0,Arizona Cardinals,7.0,2009-01-18 00:00:00,25.0,-3.5,CC
+35.5,Baltimore Ravens,Home,Home,23.0,Pittsburgh Steelers,9.0,2009-01-18 00:00:00,14.0,6.0,CC
+46.5,Pittsburgh Steelers,Visitor,Home,23.0,Arizona Cardinals,-4.0,2009-02-01 00:00:00,27.0,-6.5,SB
+34.5,New York Jets,Visitor,Visitor,14.0,Cincinnati Bengals,-10.0,2010-01-09 00:00:00,24.0,2.5,WC
+46,Philadelphia Eagles,Home,Home,34.0,Dallas Cowboys,20.0,2010-01-09 00:00:00,14.0,3.5,WC
+44,Baltimore Ravens,Visitor,Visitor,14.0,New England Patriots,-19.0,2010-01-10 00:00:00,33.0,4.0,WC
+48,Green Bay Packers,Home,Home,51.0,Arizona Cardinals,6.0,2010-01-10 00:00:00,45.0,-2.5,WC
+57,Arizona Cardinals,Home,Home,45.0,New Orleans Saints,31.0,2010-01-16 00:00:00,14.0,7.0,DP
+44,Baltimore Ravens,Home,Home,20.0,Indianapolis Colts,17.0,2010-01-16 00:00:00,3.0,6.5,DP
+45,Dallas Cowboys,Home,Home,34.0,Minnesota Vikings,31.0,2010-01-17 00:00:00,3.0,2.5,DP
+42.5,New York Jets,Visitor,Visitor,14.0,San Diego Chargers,-3.0,2010-01-17 00:00:00,17.0,9.0,DP
+40.5,New York Jets,Home,Home,30.0,Indianapolis Colts,13.0,2010-01-24 00:00:00,17.0,8.5,CC
+54,Minnesota Vikings,Home,Visitor,31.0,New Orleans Saints,3.0,2010-01-24 00:00:00,28.0,3.5,CC
+56.5,New Orleans Saints,Visitor,Visitor,17.0,Indianapolis Colts,-14.0,2010-02-07 00:00:00,31.0,4.5,SB
+46,New Orleans Saints,Home,Home,41.0,Seattle Seahawks,5.0,2011-01-08 00:00:00,36.0,-10.0,WC
+44.5,New York Jets,Visitor,Visitor,16.0,Indianapolis Colts,-1.0,2011-01-08 00:00:00,17.0,2.0,WC
+41,Baltimore Ravens,Visitor,Visitor,7.0,Kansas City Chiefs,-23.0,2011-01-09 00:00:00,30.0,-3.0,WC
+47,Green Bay Packers,Visitor,Visitor,16.0,Philadelphia Eagles,-5.0,2011-01-09 00:00:00,21.0,2.5,WC
+37,Baltimore Ravens,Home,Home,31.0,Pittsburgh Steelers,7.0,2011-01-15 00:00:00,24.0,3.0,DP
+43.5,Green Bay Packers,Visitor,Visitor,21.0,Atlanta Falcons,-27.0,2011-01-15 00:00:00,48.0,1.5,DP
+43,Seattle Seahawks,Home,Home,35.0,Chicago Bears,11.0,2011-01-16 00:00:00,24.0,10.0,DP
+45,New York Jets,Visitor,Visitor,21.0,New England Patriots,-7.0,2011-01-16 00:00:00,28.0,9.5,DP
+42.5,Green Bay Packers,Visitor,Visitor,14.0,Chicago Bears,-7.0,2011-01-23 00:00:00,21.0,-3.5,CC
+38,New York Jets,Home,Home,24.0,Pittsburgh Steelers,5.0,2011-01-23 00:00:00,19.0,4.0,CC
+45,Pittsburgh Steelers,Home,Home,31.0,Green Bay Packers,6.0,2011-02-06 00:00:00,25.0,3.0,SB
+38,Cincinnati Bengals,Home,Home,31.0,Houston Texans,21.0,2012-01-07 00:00:00,10.0,4.0,WC
+60,Detroit Lions,Home,Home,45.0,New Orleans Saints,17.0,2012-01-07 00:00:00,28.0,10.5,WC
+48,Atlanta Falcons,Home,Home,24.0,New York Giants,22.0,2012-01-08 00:00:00,2.0,3.0,WC
+34,Pittsburgh Steelers,Home,Home,29.0,Denver Broncos,6.0,2012-01-08 00:00:00,23.0,-7.5,WC
+47,New Orleans Saints,Home,Home,36.0,San Francisco 49ers,4.0,2012-01-14 00:00:00,32.0,-3.5,DP
+50,Denver Broncos,Home,Home,45.0,New England Patriots,35.0,2012-01-14 00:00:00,10.0,13.5,DP
+37.5,Houston Texans,Home,Visitor,20.0,Baltimore Ravens,7.0,2012-01-15 00:00:00,13.0,8.0,DP
+54.5,New York Giants,Visitor,Visitor,20.0,Green Bay Packers,-17.0,2012-01-15 00:00:00,37.0,8.0,DP
+50,Baltimore Ravens,Home,Visitor,23.0,New England Patriots,3.0,2012-01-22 00:00:00,20.0,7.0,CC
+41.5,New York Giants,Visitor,Visitor,17.0,San Francisco 49ers,-3.0,2012-01-22 00:00:00,20.0,2.0,CC
+53.5,New York Giants,Visitor,Visitor,17.0,New England Patriots,-4.0,2012-02-05 00:00:00,21.0,3.0,SB
+42.5,Cincinnati Bengals,Home,Home,19.0,Houston Texans,6.0,2013-01-05 00:00:00,13.0,4.0,WC
+44.5,Minnesota Vikings,Home,Home,24.0,Green Bay Packers,14.0,2013-01-05 00:00:00,10.0,11.0,WC
+47,Indianapolis Colts,Home,Home,24.0,Baltimore Ravens,15.0,2013-01-06 00:00:00,9.0,7.0,WC
+45,Seattle Seahawks,Visitor,Visitor,14.0,Washington Redskins,-10.0,2013-01-06 00:00:00,24.0,-3.0,WC
+44.5,Baltimore Ravens,Visitor,Visitor,35.0,Denver Broncos,-3.0,2013-01-12 00:00:00,38.0,9.0,DP
+45.5,Green Bay Packers,Home,Home,45.0,San Francisco 49ers,14.0,2013-01-12 00:00:00,31.0,3.0,DP
+47,Seattle Seahawks,Home,Visitor,30.0,Atlanta Falcons,2.0,2013-01-13 00:00:00,28.0,3.0,DP
+51,Houston Texans,Home,Home,41.0,New England Patriots,13.0,2013-01-13 00:00:00,28.0,9.5,DP
+49,San Francisco 49ers,Visitor,Home,24.0,Atlanta Falcons,-4.0,2013-01-20 00:00:00,28.0,-4.5,CC
+51.5,Baltimore Ravens,Visitor,Visitor,13.0,New England Patriots,-15.0,2013-01-20 00:00:00,28.0,7.5,CC
+48,Baltimore Ravens,Visitor,Visitor,31.0,San Francisco 49ers,-3.0,2013-02-03 00:00:00,34.0,4.5,SB

@@ -1,0 +1,132 @@
+Date,Round,Visitor,Visitor Score,Home Team,Home Score,Line,Total Line
+01/04/2003,WC,Indianapolis Colts,0,New York Jets,41,6,42
+01/04/2003,WC,Atlanta Falcons,27,Green Bay Packers,7,6.5,40.5
+01/05/2003,WC,Cleveland Browns,33,Pittsburgh Steelers,36,8,43
+01/05/2003,WC,New York Giants,38,San Francisco 49ers,39,3,41
+01/11/2003,DP,Pittsburgh Steelers,31,Tennessee Titans,34,4.5,44
+01/11/2003,DP,Atlanta Falcons,6,Philadelphia Eagles,20,7.5,38.5
+01/12/2003,DP,San Francisco 49ers,6,Tampa Bay Buccaneers,31,6,39.5
+01/12/2003,DP,New York Jets,10,Oakland Raiders,30,5.5,47
+01/19/2003,CC,Tampa Bay Buccaneers,27,Philadelphia Eagles,10,4,33.5
+01/19/2003,CC,Tennessee Titans,24,Oakland Raiders,41,9,46
+01/26/2003,SB,Tampa Bay Buccaneers,48,Oakland Raiders,21,3.5,44
+Date,Round,Visitor,Visitor Score,Home Team,Home Score,Line,Total Line
+01/03/2004,WC,Tennessee Titans,20,Baltimore Ravens,17,-1,38
+01/03/2004,WC,Dallas Cowboys,10,Carolina Panthers,29,3,34
+01/04/2004,WC,Seattle Seahawks,27,Green Bay Packers,33,7.5,43.5
+01/04/2004,WC,Denver Broncos,10,Indianapolis Colts,41,3,49
+01/10/2004,DP,Carolina Panthers,29,St Louis Rams,23,7,46
+01/10/2004,DP,Tennessee Titans,14,New England Patriots,17,6,34
+01/11/2004,DP,Indianapolis Colts,38,Kansas City Chiefs,31,3,53
+01/11/2004,DP,Green Bay Packers,17,Philadelphia Eagles,20,4,43
+01/18/2004,CC,Indianapolis Colts,14,New England Patriots,24,3.5,42
+01/18/2004,CC,Carolina Panthers,14,Philadelphia Eagles,3,4,36.5
+02/01/2004,SB,Carolina Panthers,29,New England Patriots,32,7,38
+Date,Round,Visitor,Visitor Score,Home Team,Home Score,Line,Total Line
+01/08/2005,WC,St Louis Rams,27,Seattle Seahawks,20,4,51
+01/08/2005,WC,New York Jets,20,San Diego Chargers,17,6.5,42.5
+01/09/2005,WC,Denver Broncos,24,Indianapolis Colts,49,10,56
+01/09/2005,WC,Minnesota Vikings,31,Green Bay Packers,17,6,52.5
+01/15/2005,DP,New York Jets,17,Pittsburgh Steelers,20,9,35.5
+01/15/2005,DP,St Louis Rams,17,Atlanta Falcons,47,6.5,49
+01/16/2005,DP,Minnesota Vikings,14,Philadelphia Eagles,27,8,47
+01/16/2005,DP,Indianapolis Colts,3,New England Patriots,20,1,51
+01/23/2005,CC,Atlanta Falcons,10,Philadelphia Eagles,27,6,37
+01/23/2005,CC,New England Patriots,41,Pittsburgh Steelers,27,-3,36.5
+02/06/2005,SB,New England Patriots,24,Philadelphia Eagles,21,-7,47
+Date,Round,Visitor,Visitor Score,Home Team,Home Score,Line,Total Line
+01/07/2006,WC,Washington Redskins,17,Tampa Bay Buccaneers,10,2.5,37.5
+01/07/2006,WC,Jacksonville Jaguars,3,New England Patriots,28,8,37.5
+01/08/2006,WC,Carolina Panthers,23,New York Giants,0,3,43.5
+01/08/2006,WC,Pittsburgh Steelers,31,Cincinnati Bengals,17,-3,44
+01/14/2006,DP,Washington Redskins,10,Seattle Seahawks,20,8.5,41
+01/14/2006,DP,New England Patriots,13,Denver Broncos,27,3,44
+01/15/2006,DP,Pittsburgh Steelers,21,Indianapolis Colts,18,8.5,46.5
+01/15/2006,DP,Carolina Panthers,29,Chicago Bears,21,3,31
+01/22/2006,CC,Pittsburgh Steelers,34,Denver Broncos,17,3.5,41
+01/22/2006,CC,Carolina Panthers,14,Seattle Seahawks,34,5.5,43
+02/05/2006,SB,Seattle Seahawks,10,Pittsburgh Steelers,21,4,47
+Date,Round,Visitor,Visitor Score,Home Team,Home Score,Line,Total Line
+01/06/2007,WC,Kansas City Chiefs,8,Indianapolis Colts,23,6.5,51
+01/06/2007,WC,Dallas Cowboys,20,Seattle Seahawks,21,2,48.5
+01/07/2007,WC,New York Jets,16,New England Patriots,37,9,38.5
+01/07/2007,WC,New York Giants,20,Philadelphia Eagles,23,6,46.5
+01/13/2007,DP,Indianapolis Colts,15,Baltimore Ravens,6,4,41
+01/13/2007,DP,Philadelphia Eagles,24,New Orleans Saints,27,4.5,48.5
+01/14/2007,DP,Seattle Seahawks,24,Chicago Bears,27,8.5,37.5
+01/14/2007,DP,New England Patriots,24,San Diego Chargers,21,5,46.5
+01/21/2007,CC,New Orleans Saints,14,Chicago Bears,39,3,43
+01/21/2007,CC,New England Patriots,34,Indianapolis Colts,38,3,47
+02/04/2007,SB,Chicago Bears,17,Indianapolis Colts,29,6.5,47
+Date,Round,Visitor,Visitor Score,Home Team,Home Score,Line,Total Line
+01/05/2008,WC,Washington Redskins,14,Seattle Seahawks,35,3.5,38.5
+01/05/2008,WC,Jacksonville Jaguars,31,Pittsburgh Steelers,29,-2.5,40
+01/06/2008,WC,New York Giants,24,Tampa Bay Buccaneers,14,3,39.5
+01/06/2008,WC,Tennessee Titans,6,San Diego Chargers,17,10,39
+01/12/2008,DP,Seattle Seahawks,20,Green Bay Packers,42,7.5,44
+01/12/2008,DP,Jacksonville Jaguars,20,New England Patriots,31,13.5,51.5
+01/13/2008,DP,San Diego Chargers,28,Indianapolis Colts,24,11,47
+01/13/2008,DP,New York Giants,21,Dallas Cowboys,17,7,47.5
+01/20/2008,CC,San Diego Chargers,12,New England Patriots,21,14,48
+01/20/2008,CC,New York Giants,23,Green Bay Packers,20,7.5,41.5
+02/03/2008,SB,New York Giants,17,New England Patriots,14,12.5,54.5
+Date,Round,Visitor,Visitor Score,Home Team,Home Score,Line,Total Line
+01/03/2009,WC,Atlanta Falcons,24,Arizona Cardinals,30,2,52
+01/03/2009,WC,Indianapolis Colts,17,San Diego Chargers,23,-2.5,50
+01/04/2009,WC,Baltimore Ravens,27,Miami Dolphins,9,-3.5,38
+01/04/2009,WC,Philadelphia Eagles,26,Minnesota Vikings,14,-3.5,41
+01/10/2009,DP,Baltimore Ravens,13,Tennessee Titans,10,3,33.5
+01/10/2009,DP,Arizona Cardinals,33,Carolina Panthers,13,10,49.5
+01/11/2009,DP,Philadelphia Eagles,23,New York Giants,11,4,39
+01/11/2009,DP,San Diego Chargers,24,Pittsburgh Steelers,35,6.5,38.5
+01/18/2009,CC,Philadelphia Eagles,25,Arizona Cardinals,32,-3.5,47
+01/18/2009,CC,Baltimore Ravens,14,Pittsburgh Steelers,23,6,35.5
+02/01/2009,SB,Pittsburgh Steelers,27,Arizona Cardinals,23,-6.5,46.5
+Date,Round,Visitor,Visitor Score,Home Team,Home Score,Line,Total Line
+01/09/2010,WC,New York Jets,24,Cincinnati Bengals,14,2.5,34.5
+01/09/2010,WC,Philadelphia Eagles,14,Dallas Cowboys,34,3.5,46
+01/10/2010,WC,Baltimore Ravens,33,New England Patriots,14,4,44
+01/10/2010,WC,Green Bay Packers,45,Arizona Cardinals,51,-2.5,48
+01/16/2010,DP,Arizona Cardinals,14,New Orleans Saints,45,7,57
+01/16/2010,DP,Baltimore Ravens,3,Indianapolis Colts,20,6.5,44
+01/17/2010,DP,Dallas Cowboys,3,Minnesota Vikings,34,2.5,45
+01/17/2010,DP,New York Jets,17,San Diego Chargers,14,9,42.5
+01/24/2010,CC,New York Jets,17,Indianapolis Colts,30,8.5,40.5
+01/24/2010,CC,Minnesota Vikings,28,New Orleans Saints,31,3.5,54
+02/07/2010,SB,New Orleans Saints,31,Indianapolis Colts,17,4.5,56.5
+Date,Round,Visitor,Visitor Score,Home Team,Home Score,Line,Total Line
+01/08/2011,WC,New Orleans Saints,36,Seattle Seahawks,41,-10,46
+01/08/2011,WC,New York Jets,17,Indianapolis Colts,16,2,44.5
+01/09/2011,WC,Baltimore Ravens,30,Kansas City Chiefs,7,-3,41
+01/09/2011,WC,Green Bay Packers,21,Philadelphia Eagles,16,2.5,47
+01/15/2011,DP,Baltimore Ravens,24,Pittsburgh Steelers,31,3,37
+01/15/2011,DP,Green Bay Packers,48,Atlanta Falcons,21,1.5,43.5
+01/16/2011,DP,Seattle Seahawks,24,Chicago Bears,35,10,43
+01/16/2011,DP,New York Jets,28,New England Patriots,21,9.5,45
+01/23/2011,CC,Green Bay Packers,21,Chicago Bears,14,-3.5,42.5
+01/23/2011,CC,New York Jets,19,Pittsburgh Steelers,24,4,38
+02/06/2011,SB,Pittsburgh Steelers,25,Green Bay Packers,31,3,45
+Date,Round,Visitor,Visitor Score,Home Team,Home Score,Line,Total Line
+01/07/2012,WC,Cincinnati Bengals,10,Houston Texans,31,4,38
+01/07/2012,WC,Detroit Lions,28,New Orleans Saints,45,10.5,60
+01/08/2012,WC,Atlanta Falcons,2,New York Giants,24,3,48
+01/08/2012,WC,Pittsburgh Steelers,23,Denver Broncos,29,-7.5,34
+01/14/2012,DP,New Orleans Saints,32,San Francisco 49ers,36,-3.5,47
+01/14/2012,DP,Denver Broncos,10,New England Patriots,45,13.5,50
+01/15/2012,DP,Houston Texans,13,Baltimore Ravens,20,8,37.5
+01/15/2012,DP,New York Giants,37,Green Bay Packers,20,8,54.5
+01/22/2012,CC,Baltimore Ravens,20,New England Patriots,23,7,50
+01/22/2012,CC,New York Giants,20,San Francisco 49ers,17,2,41.5
+02/05/2012,SB,New York Giants,21,New England Patriots,17,3,53.5
+Date,Round,Visitor,Visitor Score,Home Team,Home Score,Line,Total Line
+01/05/2013,WC,Cincinnati Bengals,13,Houston Texans,19,4,42.5
+01/05/2013,WC,Minnesota Vikings,10,Green Bay Packers,24,11,44.5
+01/06/2013,WC,Indianapolis Colts,9,Baltimore Ravens,24,7,47
+01/06/2013,WC,Seattle Seahawks,24,Washington Redskins,14,-3,45
+01/12/2013,DP,Baltimore Ravens,38,Denver Broncos,35,9,44.5
+01/12/2013,DP,Green Bay Packers,31,San Francisco 49ers,45,3,45.5
+01/13/2013,DP,Seattle Seahawks,28,Atlanta Falcons,30,3,47
+01/13/2013,DP,Houston Texans,28,New England Patriots,41,9.5,51
+01/20/2013,CC,San Francisco 49ers,28,Atlanta Falcons,24,-4.5,49
+01/20/2013,CC,Baltimore Ravens,28,New England Patriots,13,7.5,51.5
+02/03/2013,SB,Baltimore Ravens,34,San Francisco 49ers,31,4.5,48
