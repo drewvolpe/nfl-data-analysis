@@ -1,4 +1,6 @@
 
+# Playoff lines, historically by week
+
 library(Hmisc)  # for cut2
 library(ggplot2)
 library(reshape2) # for melt
